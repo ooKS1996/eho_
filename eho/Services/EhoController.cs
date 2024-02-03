@@ -14,7 +14,7 @@ namespace eho.Services
         private string ehoDirection = "恵方の取得に失敗しました。";
         private static string help = "使用法: eho [argument][output option]\n" +
             "\n恵方を応答します。\n" +
-             "\nパラメーター：\n\targument:西暦を整数で入力すると対応する恵方を返します。省略した場合は今年の恵方を返します\n" +
+             "\nパラメーター：\n\targument:西暦を整数で入力すると対応する恵方を返します。省略した場合は今年の恵方を返します。\n" +
             "\toutput option\t:恵方の出力形式を指定します。\n" +
             "\t※output option一覧※\n" +
             "\t\t/J\t:恵方を8方位の日本語で返します。（例：西南西）\n" +
